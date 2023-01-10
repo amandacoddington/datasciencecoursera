@@ -17,7 +17,7 @@ Week 4 *completed*\
 
 Week 1 *completed*\
 Week 2 *completed*\
-Week 3 
+Week 3 *completed*\
 Week 4
 
 #### Getting and Cleaning Data
@@ -59,7 +59,7 @@ Week 1 *completed*\
 Week 2 *completed*\
 Week 3 *completed*\
 Week 4 *completed*\
-Week 5 *completed*\
+Week 5 *completed*
 
 #### Process Data from Dirty to Clean
 
