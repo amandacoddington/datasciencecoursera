@@ -11,13 +11,13 @@ Repo for data science courses through Coursera
 Week 1 *completed*\
 Week 2 *completed*\
 Week 3 *completed*\
-Week 4 *completed*
+Week 4 *completed*\
 
 #### R Programming
 
 Week 1 *completed*\
 Week 2 *completed*\
-Week 3 *completed*\
+Week 3 
 Week 4
 
 #### Getting and Cleaning Data
